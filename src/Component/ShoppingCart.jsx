@@ -88,7 +88,7 @@ const ShoppingCart = ({ cartItems, handleRemoveFromCart, handleClearCart, handle
             className="w-full bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
             onClick={() => navigate('/')}
           >
-            Buy More Items
+            Buy Items
           </button>
         </div>
       )}
