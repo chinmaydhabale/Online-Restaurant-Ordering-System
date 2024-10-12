@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './component/Navbar';
-import CategorySlider from './component/CategorySlider';
-import FoodList from './component/FoodList';
-import ShoppingCart from './component/ShoppingCart';
+import Navbar from './Component/Navbar';
+import CategorySlider from './Component/CategorySlider';
+import FoodList from './Component/FoodList';
+import ShoppingCart from './Component/ShoppingCart';
 import product from './Food-Data/foodproduct';
 
 const App = () => {
